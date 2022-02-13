@@ -1,0 +1,7 @@
+f = open('/Users/arkhipov/Downloads/petrol2.in', 'r')
+f.readline()
+# n = int(f.readline().strip('\n'))
+# applications_ = []
+# for r in f.readlines():
+#     k = list(map(int, r.strip('\n').split(' ')))
+#     applications_.append(k)
